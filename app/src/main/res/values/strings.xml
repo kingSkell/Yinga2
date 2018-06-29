@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">World Cup Quiz</string>
+    <string name="Q1"> How many countries have won multiple World Cups?</string>
+    <string name="Q2">Who makes the official soccer ball of the 2014 World Cup</string>
+    <string name="Q3">Who was awarded the Adidas Golden Boot in 2002 for being the top goal scorer in the World Cup that year?</string>
+    <string name="Q4">Which two nations have won consecutive World Cup titles?</string>
+    <string name="Q5">Which country has finished in second place three times but has never won a World Cup?</string>
+    <string name="Q1_option1">5</string>
+    <string name="Q1_option2">6</string>
+    <string name="Q1_option3">3</string>
+    <string name="Q1_option4">4</string>
+    <string name="Q4_option1">England</string>
+    <string name="Q4_option2">Germany</string>
+    <string name="Q4_option3">Italy</string>
+    <string name="Q4_option4">Brazil</string>
+    <string name="Q5_option1">Hungary</string>
+    <string name="Q5_option2">Nertherlands</string>
+    <string name="Q5_option3">Sweden</string>
+    <string name="Q5_option4">Czechoslovakia</string>
+    <string name="Edit_text_hint">Input Answer</string>
+    <string name="score_text">Score :</string>
+    <string name="buttonText">Submit</string>
+</resources>
+
